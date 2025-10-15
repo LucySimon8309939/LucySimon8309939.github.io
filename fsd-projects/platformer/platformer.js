@@ -42,6 +42,7 @@ $(function () {  // initialize canvas and context when able to
     // TODO 3 - Create Collectables
    createCollectable('max',600, 500 );
    createCollectable('diamond', 1300, 100);
+   createCollectable('grace', 1100, 200);
 
 
    
