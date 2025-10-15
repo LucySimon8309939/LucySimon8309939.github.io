@@ -31,8 +31,8 @@ $(function () {  // initialize canvas and context when able to
 
     // TODO 2 - Create Platforms
    
-    createPlatform(400, 600, 257, 13);
-    createPlatform(200, 500, 200, 16);
+    createPlatform(400, 650, 257, 13);
+    createPlatform(200, 520, 200, 16);
     createPlatform(520, 420, 200, 19);
     createPlatform(900, 300, 124, 14);
     createPlatform(1200 ,200 ,124 ,14);
@@ -47,8 +47,9 @@ $(function () {  // initialize canvas and context when able to
 
    
     // TODO 4 - Create Cannons
-
-
+  createCannon("top", 800, 1300);
+  createCannon('top', 1300, 1300);
+  createCannon('left', 100, 1300);
    
    
     //////////////////////////////////
