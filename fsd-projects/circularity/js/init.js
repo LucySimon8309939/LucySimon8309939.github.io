@@ -30,7 +30,7 @@ var init = function (window) {
                 physikz.addRandomVelocity(circle,canvas,2,2);
                 view.addChild(circle);
                 circles.push(circle);
-            )
+            
         }
 
 
