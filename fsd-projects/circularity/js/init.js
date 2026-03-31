@@ -38,6 +38,11 @@ drawCircle()
 drawCircle()
 drawCircle()
 drawCircle()
+ for (var loopsCompleted = 0; loopsCompleted < 175; loopsCompleted++) {
+            drawCircle();
+        }
+
+
         
         ////////////////////////////////////////////////////////////
         ///////////////// PROGRAM LOGIC ////////////////////////////
