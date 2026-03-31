@@ -33,7 +33,11 @@ var circles = []
        
 
         // TODO 3 / 7 : Call the drawCircle() function 
-
+drawCircle()
+drawCircle()
+drawCircle()
+drawCircle()
+drawCircle()
         
         ////////////////////////////////////////////////////////////
         ///////////////// PROGRAM LOGIC ////////////////////////////
